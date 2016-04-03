@@ -1,2 +1,3 @@
-This server is running [geomys](https://git.nokaa.moe/nokaa/geomys),
-an async gopher server written in Rust by me.
+This server runs Arch GNU+Linux, with nginx as httpd,
+[geomys](https://git.nokaa.moe/nokaa/geomys) as gopherd,
+and gogs for gitd and as a git web interface.
